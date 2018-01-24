@@ -1,0 +1,1 @@
+# A small app to make everything funnier
