@@ -1,7 +1,7 @@
 let org;
 let runner;
 let loop;
-const baseUrl = 'http://localhost:8080';
+const baseUrl = 'https://projectrusher.herokuapp.com';
 
 const HttpClient = function() {
   this.get = function(aUrl, aCallback, errCallBack) {
