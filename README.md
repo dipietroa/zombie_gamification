@@ -6,3 +6,7 @@ the body must contain only an integer corresponding to the additional number of 
 
 You can check the API doc on /docs
 
+Try it online: https://projectrusher.github.io
+server: https://projectrusher.herokuapp.com
+api documentation: https://projectrusher.herokuapp.com/docs
+
